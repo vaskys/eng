@@ -112,12 +112,12 @@ void demo() {
   gin_clear();
 }
 
-int wmain()
+int main()
 {
-  editor();
+ // editor();
  // demo_gr();
- // demo_volume();
- // demo();
+  //demo_volume();
+  demo();
   return 0;  
 }
 
