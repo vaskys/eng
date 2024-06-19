@@ -1,0 +1,12 @@
+/Users/samsi/Downloads/SDL-release-2.28.2/build/CMakeFiles/sdl_headers_copy.dir
+/Users/samsi/Downloads/SDL-release-2.28.2/build/CMakeFiles/SDL2main.dir
+/Users/samsi/Downloads/SDL-release-2.28.2/build/CMakeFiles/SDL2.dir
+/Users/samsi/Downloads/SDL-release-2.28.2/build/CMakeFiles/SDL2-static.dir
+/Users/samsi/Downloads/SDL-release-2.28.2/build/CMakeFiles/SDL2_test.dir
+/Users/samsi/Downloads/SDL-release-2.28.2/build/CMakeFiles/uninstall.dir
+/Users/samsi/Downloads/SDL-release-2.28.2/build/CMakeFiles/edit_cache.dir
+/Users/samsi/Downloads/SDL-release-2.28.2/build/CMakeFiles/rebuild_cache.dir
+/Users/samsi/Downloads/SDL-release-2.28.2/build/CMakeFiles/list_install_components.dir
+/Users/samsi/Downloads/SDL-release-2.28.2/build/CMakeFiles/install.dir
+/Users/samsi/Downloads/SDL-release-2.28.2/build/CMakeFiles/install/local.dir
+/Users/samsi/Downloads/SDL-release-2.28.2/build/CMakeFiles/install/strip.dir
